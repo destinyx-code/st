@@ -30,7 +30,7 @@
 #include <X11/XKBlib.h>
 #include <fontconfig/fontconfig.h>
 #include <wchar.h>
-
+#include <teaport>
 #include "arg.h"
 
 char *argv0;
