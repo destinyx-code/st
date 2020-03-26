@@ -339,6 +339,7 @@ static void printscreen(const Arg *) ;
 static void toggleprinter(const Arg *);
 static void sendbreak(const Arg *);
 static void togglefullscreen(const Arg *);
+static void fullscreencall(const Arg *);
 
 /* Config.h for applying patches and the configuration. */
 #include "config.h"
